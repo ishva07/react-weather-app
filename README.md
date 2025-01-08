@@ -35,19 +35,19 @@ To run the Weather Forecast App locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/weather-forecast-app.git
+  git clone https://github.com/your-username/weather-forecast-app.git
 
 Navigate to the project directory:
 
-cd weather-forecast-app
+  cd weather-forecast-app
 
 Install dependencies:
 
-npm install
+  npm install
 
 Run the app
 
-npm run dev
+  npm run dev
 
 Open your browser and go to http://localhost:3000 to view the app.
 
